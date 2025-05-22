@@ -60,6 +60,3 @@ python predict_emotion.py
 - `tfidf_vectorizer.joblib`: Saved TF-IDF vectorizer
 - `confusion_matrix.png`: Visualization of model performance
 
-## Note
-
-The dataset (`emotions (1).csv`) is not included in the repository due to its size. Make sure to place it in the project directory before running the scripts. 
